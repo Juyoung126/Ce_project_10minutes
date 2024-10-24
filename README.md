@@ -5,6 +5,8 @@
 
 개발인원 : Frontend 2명, Backend 2명
 
+![프로젝트 전체 요약](https://github.com/user-attachments/assets/0ed6b11b-a623-4072-abe0-d73a86f9a583)
+
 ---
 
 ### 1. 프로젝트 소개
@@ -35,4 +37,3 @@ YOLOv5 모델을 활용하여 쓰레기를 탐지하고 분리 배출 방법을 
 
 ---
 
-![프로젝트 전체 요약](https://github.com/user-attachments/assets/0ed6b11b-a623-4072-abe0-d73a86f9a583)
