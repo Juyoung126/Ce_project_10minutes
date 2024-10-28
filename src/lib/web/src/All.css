@@ -1,0 +1,81 @@
+.trashcanPage {
+    margin-top: 50px;
+}
+
+.manualPage {
+    margin-top: 50px;
+}
+
+.userlistPage {
+    margin-top: 50px;
+}
+
+.adminPage {
+    margin-top: 50px;
+}
+
+.NewAdminPage {
+    margin-top: 50px;
+}
+
+.NewTrashcanPage {
+    margin-top: 50px;
+}
+
+.NewManualPage {
+    margin-top: 50px;
+}
+
+.loginPage {
+    background-image: url('../public/background_img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* min-height: 100vh; */
+}
+
+.firstpage{
+    background-color: white;
+    /* background-position: 0%; */
+}
+
+.idpwcontainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 300px;
+    height:30px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.idpwfind{
+    color: white;
+}
+
+.headercontainer{
+    margin-left: -300px;
+}
+
+.bodycontainer{
+    flex:1;
+}
+.bodycontainer1{
+    flex:1;
+    padding: 20px;
+}
+/* @font-face {
+    font-family: 'Dongle';
+    src: url('../public/Dongle-Regular.ttf') format('truetype')
+}
+
+.desc {
+    font-family: 'Dongle';
+    font-size: 20px;
+    font-weight: 100;
+} */
+
+
+.footer {
+    background-color: #ffffff;
+}

@@ -1,0 +1,236 @@
+.all_css_inApp {
+  font-family: 'NanumGothic';
+  font-size: 20px;
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #ffffff;
+}
+
+.topbar {
+  width: 100%;
+  height: 80px;
+  flex-direction: row;
+  /* align-items: flex-start; */
+  /* padding-left: 2rem; */
+  background-color: rgb(12, 48, 114);
+  /* border-style: solid;
+  border-color: #49a4c5; */
+  position: fixed;
+  z-index: 1000;
+}
+
+.sidebar {
+  width: 300px;
+  height: 100vh;
+  margin-top: 80px;
+  flex-direction: column;
+  align-items: flex-start;
+  /* padding-left: 2rem; */
+  background-color: rgb(12, 48, 114);
+  /* border-style: solid;
+  border-top: none;
+  border-color: #49a4c5; */
+  position: fixed;
+  margin-right: 100px;
+  /* border-radius: 0 16px 16px 0; */
+}
+
+.main-container-back {
+  background-color: #ffffff;
+
+}
+
+.main-content-inner {
+  margin-left: 340px;
+  margin-top: 95px;
+}
+
+
+.navbar-brand {
+  background-color: #ade6fa;
+  padding: 10px;
+  width: 30px;
+  height: 50px;
+}
+
+.logo {
+  padding: 8px;
+  /* margin: 50px; */
+  height: 80px;
+}
+
+
+.navbar-nav {
+  width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(206, 234, 255);
+}
+
+.main-contents-pad {
+  padding-left: 5em;
+}
+
+.nav-link:hover {
+  background-color: lightcyan;
+  color:black;
+  border-radius: 5px;
+}
+
+.myinfoedition {
+  color: white;
+  border: none;
+  padding: 5px;
+  background-color: #2694bc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logtoutedition {
+  color: white;
+  border: none;
+  padding: 5px;
+  background-color: rgb(225, 88, 88);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.onlyForAdmin {
+  display: flex;
+}
+
+.buttons {
+  float: right;
+  margin: 5px;
+  margin-top: 13px;
+}
+
+.sidebarcontainer {
+  display: flex;
+  height: 100%;
+}
+
+/* @font-face {
+  font-family: 'NanumGothic';
+  src: url('../public/NanumGothic.ttf') format('truetype')
+}
+
+.desc {
+  font-family: 'Dongle';
+  font-size: 20px;
+  font-weight: 100;
+} */
+
+/* 
+.topbar {
+  background-color: black;
+  height: 30;
+  position: flex;
+  top: 0;
+  left: 0;
+  padding-left: 60px;
+  /* padding-right: 200px; */
+/* 사이드바 오른쪽 패딩 추가 */
+
+
+
+/* 
+.sidebar {
+  background-color: black;
+  height: 100vh;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 60px;
+  /* padding-right: 200px; */
+/* 사이드바 오른쪽 패딩 추가 */
+
+
+
+/* -------------------------------==============================------------------- */
+/* .navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 2rem;
+}
+
+.navbar-brand {
+  background-color: black;
+  padding: 10px;
+}
+
+.navbar-nav {
+  width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #ccc;
+}
+
+.main-contents-pad {
+  padding-left: 5em;
+}
+
+.sidebar {
+  background-color: black;
+  height: 100vh;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 60px;
+  /* padding-right: 200px; */
+/* 사이드바 오른쪽 패딩 추가 */
+/* } */
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
